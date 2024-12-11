@@ -2,8 +2,8 @@
 
 def Sum(iVal):
     iSum = 0
-    for iCnt in range(1, iVal + 1):
-        iSum += iCnt
+    for i in range(1, iVal + 1):
+        iSum += i
     return iSum
 
 # Main 
