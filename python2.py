@@ -1,5 +1,6 @@
 # Function to calculate the sum of numbers from 1 to n
 
+
 def Sum(iVal):
     iSum = 0
     for i in range(1, iVal + 1):
